@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prince
+- Hi 👋 I'm Prince Kumar, a Computer Science student and aspiring software developer passionate about web development and AI-driven applications. I enjoy building practical projects, including AI chatbots and responsive web applications, and continuously improving my problem-solving and development skills.
 
 - <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
